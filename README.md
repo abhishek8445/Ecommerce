@@ -1,2 +1,0 @@
-# Ecommerce
-Product Subscription task
